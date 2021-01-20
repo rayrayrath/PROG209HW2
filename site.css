@@ -1,0 +1,31 @@
+ body {
+    margin: 50px;
+    font-family: Helvetica, sans-serif;
+    font-size: 100%;
+
+}
+#GetWords{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+}
+#ChangedWords{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+}
+#begin{
+    background-image: linear-gradient(to right,red, orange, yellow,green,blue,indigo,violet);
+}
+
+#change{
+    background-image: linear-gradient(to right, violet, indigo, blue,green,yellow,orange,red);
+
+
+}
+button{
+    background-color: lightgray;
+    color: black;
+    font-size: 50px;
+    border-radius: 14px;
+    text-align: center;
+
+}
